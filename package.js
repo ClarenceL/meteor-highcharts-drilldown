@@ -3,7 +3,7 @@
  */
 Package.describe({
   summary: "Add Drilldown module to Highcharts - this will add the maazalik:highcharts package",
-  version: "0.3.1",
+  version: "0.3.2",
   git: "https://github.com/ClarenceL/meteor-highcharts-drilldown.git",
   name: "clarencel:highcharts-drilldown"
 });
@@ -16,8 +16,8 @@ Package.onUse( function( api ){
   api.use('templating');
 
   // basic highcharts
-  api.use('maazalik:highcharts@0.2.4');
-  api.imply('maazalik:highcharts@0.2.4');
+  api.use('maazalik:highcharts@0.3.0');
+  api.imply('maazalik:highcharts@0.3.0');
 
   // drilldowns
   api.addFiles([
