@@ -16,8 +16,8 @@ Package.onUse( function( api ){
   api.use('templating');
 
   // basic highcharts
-  api.use('maazalik:highcharts@0.3.0');
-  api.imply('maazalik:highcharts@0.3.0');
+  api.use('maazalik:highcharts@0.2.4');
+  api.imply('maazalik:highcharts@0.2.4');
 
   // drilldowns
   api.addFiles([
