@@ -3,7 +3,7 @@
  */
 Package.describe({
   summary: "Add Drilldown module to Highcharts - this will add the maazalik:highcharts package",
-  version: "0.3.0",
+  version: "0.3.1",
   git: "https://github.com/ClarenceL/meteor-highcharts-drilldown.git",
   name: "clarencel:highcharts-drilldown"
 });
