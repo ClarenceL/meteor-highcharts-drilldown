@@ -1,10 +1,10 @@
 
-## Highcharts Solid Gauges
+## Highcharts Drilldowns
 
 Add to your Meteor app
 
 ```
-meteor add clarencel:highcharts-gauge
+meteor add clarencel:highcharts-drilldown
 ```
 This package will add [maazalik:highcharts](https://github.com/MaazAli/Meteor-HighCharts).  
 
